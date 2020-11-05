@@ -27,7 +27,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  background: /images/site/acceuil.jpg
+  background: /images/site/red.jpg
 
   logo:
     main: /images/site/karim_logo.png
