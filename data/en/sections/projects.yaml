@@ -40,7 +40,7 @@ projects:
 
 - name: Sentiment analysis in a big data environment
   logo: /images/sections/projects/spark-20-458193.png
-  role: Owner
+  role: Developer
   timeline: "Dec. 2019"
   summary: Using big data tools to build a real-time sentiment analysis system.
   tags: ["spark streaming","kafka","academic"]
@@ -52,3 +52,11 @@ projects:
   #repo: 
   summary: Building a simple face recognition application using Python and openCV with a tkinter gui interface.
   tags: ["tkinter","Python","openCV","academic"]
+
+- name: The nurse scheduling problem (NSP) implementation with choco solver
+  logo: /images/sections/projects/java.png
+  role: Developer
+  timeline: "jun. 2019"
+  repo: https://github.com/elkheddoumi10/ProjetInfermmier
+  summary: Using constrained programming approach to solve the nurse scheduling problem (NSP) and implimenting it with java and choco solver.
+  tags: ["constrained programming","Java","choco-solver","academic"]

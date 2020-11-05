@@ -52,3 +52,12 @@ projects:
   #repo: 
   summary: Implémenter une application de reconnaissance faciale en utilisant Python et openCV avec une interface graphique tkinter.
   tags: ["tkinter","Python","openCV","academic"]
+
+- name: Problème de planification des infirmières (NP)
+  logo: /images/sections/projects/java.png
+  role: Développeur
+  timeline: "jun. 2019"
+  #repo: 
+  summary: Utilisation d'une approche de programmation par contraintes pour résoudre le problème de planification des infirmières (NP) et l'implémenter avec java et choco solver.
+  tags: ["constrained programming","Java","choco-solver","academic"]
+
