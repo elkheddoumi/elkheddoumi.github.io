@@ -1,0 +1,26 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Master Graduation
+  image: /images/sections/achievements/graduation.jpg
+  summary: Received Master of Science (M.Sc.) in Intelligents Systems and Information Systems from National Institute of Statistic and Applied Economic (INSEA).
+
+- title: Ranking of 11/70 in MCPC 2019
+  image: /images/sections/achievements/mcpc.png
+  summary: 11 th palce in moroccan coligiate programming contest.
+- title: MCPC 2019
+  image: /images/sections/achievements/team.jpg
+  summary: 11 th palce in The 2019 moroccan Collegiate Programming Contest at 1337 Coding School
+
+- title: Bachelor Graduation
+  image: /images/sections/achievements/isometric-flat-graduation-cap-free-vector.png
+  summary: Received Bachelor of Science (B.Sc.) in Mathematics and Computer Science from Abdelmalek essadi University.
