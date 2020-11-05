@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Toulouse Institute of Computer Science Research.
+    url: "https://www.irit.fr/"
+    location: Toulouse
+    # company overview
+    overview: IRIT, Toulouse Research Institute in Computer Science, one of the largest joint research units at national level in France, is one of the pillars of research in the Midi-Pyrenees region with 700 permanent and non-permanent members.
+  positions:
+  - designation: Final year Master internship
+    start: Mars 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Sep 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Study diffrents preferences respresentation laguages.
+    - Design and Implement a preferences compiler with java and ILOCPLEX librerie
+    - Assess the practical feasibility of the approach by setting up a test protocol on simulated data sets.
+    
+
+#- company:
+ #   name: PreExample Co.
+  #  url: "https://www.preexample.com"
+   # location: Nowhere
+    #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  #positions:
+  #- designation: Software Engineer
+   # start: March 2016
+    #end: May 2017
+    #responsibilities:
+    #- Write lots of example codes.
+    #- Read lots of examples.
+    #- See lots of example videos.
