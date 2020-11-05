@@ -18,7 +18,7 @@ designation: Junior Data Scientist
 resume: "files/cv.pdf"
 
 # a summary about you
-summary: 'I’m Karim EL-KHEDDOUMI, 24 year old junior Data Scientist. Graduated with a master’s degree in Artificial Intelligence from National Institute of Statistics and Applied Economics. I’m passionate about Artificial Intelligence, Data Science and Problem-Solving. My journey with Data started in 2018, since then I have been trying to improve my skills to help society and the world.'
+summary: "I’m Karim EL-KHEDDOUMI, 24 year old junior Data Scientist. Graduated with a master’s degree in Artificial Intelligence from National Institute of Statistics and Applied Economics. I’m passionate about Artificial Intelligence, Data Science and Problem-Solving. My journey with Data started in 2018, since then I have been trying to improve my skills to help society and the world."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -44,17 +44,17 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
+- name: Critical thinking
   percentage: 85
   color: blue
-- name: Team Work
+- name: Creativity
   percentage: 90
   color: yellow
 - name: Communication
   percentage: 85
   color: pink
-- name: Hard Working
-  percentage: 70
+- name: Intellectual curiosity
+  percentage: 90
   color: green
 - name: Fast Learner
   percentage: 90

@@ -24,16 +24,16 @@ projects:
 - name: Credit card fraud detection
   logo: /images/sections/projects/tensorflow.png
   role: Developer
-  timeline: "October 2020"
+  timeline: "Oct. 2020"
   repo: https://github.com/elkheddoumi10/Credit-Card-Fraud-Detection # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Build a deep learning model which is able to detect fraudulent transactions based on a data set from Kaggle.
+  summary: Build a deep learning model that can detect fraudulent transactions based on a data set from Kaggle.
   tags: ["Tensorflow", "deep learning", "fraud detection","hobby"]
 
 - name: Preferences compiler
   logo: /images/sections/projects/java.png
   role: Developer
-  timeline: "Mars 2020 - September 2020"
+  timeline: "Mar. 2020 - Sep. 2020"
   #url: ""
   summary: Design and Implement a preferences compiler with java using ILOCPLEX librerie.
   tags: ["professional", "knowledge compilation","academic"]
@@ -41,14 +41,14 @@ projects:
 - name: Sentiment analysis in a big data environment
   logo: /images/sections/projects/spark-20-458193.png
   role: Owner
-  timeline: "Jun 2019 - Present"
+  timeline: "Dec. 2019"
   summary: Using big data tools to build a real-time sentiment analysis system.
   tags: ["spark streaming","kafka","academic"]
 
 - name: Face Recognition Attendance App
   logo: /images/sections/projects/opencv.png
   role: Developer
-  timeline: "October 2019"
+  timeline: "Oct. 2019"
   #repo: 
   summary: Building a simple face recognition application using Python and openCV with a tkinter gui interface.
   tags: ["tkinter","Python","openCV","academic"]

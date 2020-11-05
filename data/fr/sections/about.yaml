@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Junior Data Scientist
+designation: Data Scientist junior
 # your company information
 #company:
  # name: Example Co.
@@ -18,7 +18,7 @@ designation: Junior Data Scientist
 resume: "files/cv.pdf"
 
 # a summary about you
-summary: 'I’m Karim EL-KHEDDOUMI, 24 year old junior Data Scientist. Graduated with a master’s degree in Artificial Intelligence from National Institute of Statistics and Applied Economics. I’m passionate about Artificial Intelligence, Data Science and Problem-Solving. My journey with Data started in 2018, since then I have been trying to improve my skills to help society and the world.'
+summary: "Je suis Karim EL-KHEDDOUMI, 24 ans, Data Scientist junior. Diplômé d'un Master en intelligence artificielle de l'Institut national de statistique et d'économie appliquée. Je suis passionné par l'intelligence artificielle, la Data Science et le problem-solving. Mon histoire avec Data a commencé en 2018, depuis, j'essaie d'améliorer mes compétences pour aider la communauté."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -44,17 +44,17 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
+- name: Esprit critique
   percentage: 85
   color: blue
-- name: Team Work
+- name: Créativité
   percentage: 90
   color: yellow
 - name: Communication
   percentage: 85
   color: pink
-- name: Hard Working
-  percentage: 70
+- name: Curiosité intellectuelle
+  percentage: 90
   color: green
 - name: Fast Learner
   percentage: 90

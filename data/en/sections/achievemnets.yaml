@@ -24,3 +24,23 @@ achievements:
 - title: Bachelor Graduation
   image: /images/sections/achievements/isometric-flat-graduation-cap-free-vector.png
   summary: Received Bachelor of Science (B.Sc.) in Mathematics and Computer Science from Abdelmalek essadi University.
+
+- title: Complited cours
+  image: /images/sections/achievements/certif.png
+  summary: Python for Data Science and AI.
+
+- title: Complited cours
+  image: /images/sections/achievements/certif2.png
+  summary: Neural netwoks and Deep Learning.
+
+- title: Complited cours
+  image: /images/sections/achievements/certif3.png
+  summary: Structurning Machine Learning Projects.
+
+- title: Complited cours
+  image: /images/sections/achievements/certif4.png
+  summary: Tools for Data Science.
+
+- title: Complited cours
+  image: /images/sections/achievements/certif5.png
+  summary: Data Visualization with Python.

@@ -18,13 +18,13 @@ experiences:
     overview: IRIT, Toulouse Research Institute in Computer Science, one of the largest joint research units at national level in France, is one of the pillars of research in the Midi-Pyrenees region with 700 permanent and non-permanent members.
   positions:
   - designation: Final year Master internship
-    start: Mars 2020
+    start: Mar. 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: Sep 2020
+    end: Sep. 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Study diffrents preferences respresentation laguages.
-    - Design and Implement a preferences compiler with java and ILOCPLEX librerie
+    - Study different preferences representation languages;
+    - Design and Implement a preferences compiler with java and ILOCPLEX librerie ;
     - Assess the practical feasibility of the approach by setting up a test protocol on simulated data sets.
     
 

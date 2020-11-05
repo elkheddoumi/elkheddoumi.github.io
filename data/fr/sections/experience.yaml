@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Expériences
   id: experiences
   enable: true
   weight: 3
@@ -11,21 +11,21 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Toulouse Institute of Computer Science Research.
-    url: "https://www.irit.fr/"
+    name: ANITI (Artificial and Natural Intelligence Toulouse Institute) et IRIT (Institut de Recherche en Informatique de Toulouse).
+    url: "https://aniti.univ-toulouse.fr/"
     location: Toulouse
     # company overview
-    overview: IRIT, Toulouse Research Institute in Computer Science, one of the largest joint research units at national level in France, is one of the pillars of research in the Midi-Pyrenees region with 700 permanent and non-permanent members.
+    overview: " **ANITI, Artificial and Natural Intelligence Toulouse Institute, est l’institut interdisciplinaire d’intelligence artificielle de Toulouse**. L’activité d’ANITI repose sur 3 grands piliers : recherche scientifique, formation et contribution au développement économique. Sa spécificité est de développer une nouvelle génération d’intelligence artificielle dite hybride, associant de façon intégrée des techniques d’apprentissage automatique à partir de données et des modèles permettant d’exprimer des contraintes et d’effectuer des raisonnements logiques."
   positions:
-  - designation: Final year Master internship
-    start: Mars 2020
+  - designation: Projet de fin d'étude 
+    start: Mar. 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: Sep 2020
+    end: Sep. 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Study diffrents preferences respresentation laguages.
-    - Design and Implement a preferences compiler with java and ILOCPLEX librerie
-    - Assess the practical feasibility of the approach by setting up a test protocol on simulated data sets.
+    - Etudier différents langages de représentation des préférences;
+    - Concevoir et implémenter un compilateur de préférences avec Java et la librerie ILOCPLEX;
+    - Évaluer la faisabilité pratique de l'approche en mettant en place un protocole de test sur des ensembles de données simulés.
     
 
 #- company:

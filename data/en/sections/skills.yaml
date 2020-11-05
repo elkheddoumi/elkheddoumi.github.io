@@ -13,32 +13,32 @@ section:
 skills:
 - name: Programming
   icon: "/images/sections/skills/prog.png"
-  summary: "Java, Python, C, SQL, PL\\SQL, ProLog, Lisp, php."
+  summary: "Strong programming skills : Java, Python, C, SQL, PL\\SQL, ProLog, Lisp, php."
   
 
 - name: Machine Learning
   icon: "/images/sections/skills/machine.png"
-  summary: "Neural networks, Logistique regression, Rondom forests, ."
+  summary: "Able to: -Understand how and when machine learning and AI is appropriate for the business 
+            -Train and deploy models to implement productive AI solutions
+            - Explain models and predictions in terms useful to the business"
   
 - name: Big Data
   icon: "/images/sections/skills/big.png"
-  summary: "Spark Streaming, Kafka, Hadoop, elasticsearch."
+  summary: "Hadoop stack (Hadoop, Hive, Pig, Hbase, Sqoop, Flume, Spark, Kafka, Shark, Oozie, etc.), SPSS, NOSQL Databases (I.e. HBase, Cassandra, MongoDB etc.) Elasticsearch..."
 
-- name: Statistics
+- name: Math and Statistics
   icon: "/images/sections/skills/stat.png"
-  summary: "Data analysis, inference."
+  summary: "Able to: -Perform exploratory data analysis and identify important patterns and relationships;
+  -Apply rigorous statistical thinking to extract signal from noise;
+  -Understand the strengths and limitations of various tests models and why they fit a given problem"
 
-- name: Data Visualization & Communication
+- name: Data Visualization and Communication
   icon: "/images/sections/skills/dataviz.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-
-- name: Design and analysis
-  icon: "/images/sections/skills/des.png"
-  summary: "BPMN, UML."
+  summary: "-Business Process Modeling(UML, BPMN);-Understand the benefits and challenges of using data visualization;-Ability to share results through self-service dashboards. "
 
 - name: Project management
   icon: "/images/sections/skills/proj.png"
-  summary: "Scrum, lean six sigma"
+  summary: "Project management methodologies: Waterfall, Agile and PMI methods"
 
 - name: Operational research
   icon: "/images/sections/skills/or.png"

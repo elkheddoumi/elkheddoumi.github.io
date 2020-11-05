@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Projects
+  name: Projets
   id: projects
   enable: true
   weight: 4
@@ -10,13 +10,13 @@ section:
 
 # filter buttons
 buttons:
-- name: All
+- name: Tous
   filter: "all"
-- name: Professional
+- name: Professionnel
   filter: "professional"
-- name: Academic
+- name: Académique
   filter: "academic"
-- name: Hobby
+- name: Personnel
   filter: "hobby"
 
 # your projects
@@ -24,31 +24,31 @@ projects:
 - name: Credit card fraud detection
   logo: /images/sections/projects/tensorflow.png
   role: Developer
-  timeline: "October 2020"
+  timeline: "Oct. 2020"
   repo: https://github.com/elkheddoumi10/Credit-Card-Fraud-Detection # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Build a deep learning model which is able to detect fraudulent transactions based on a data set from Kaggle.
+  summary: Créez un modèle deep learning avec Tensorflow capable de détecter les transactions frauduleuses en se basant  sur un Dataset de Kaggle.
   tags: ["Tensorflow", "deep learning", "fraud detection","hobby"]
 
-- name: Preferences compiler
+- name: Compilateur de préférences
   logo: /images/sections/projects/java.png
-  role: Developer
-  timeline: "Mars 2020 - September 2020"
+  role: Développeur
+  timeline: "Mar. 2020 - Sep. 2020"
   #url: ""
-  summary: Design and Implement a preferences compiler with java using ILOCPLEX librerie.
+  summary: Concevoir et implémenter un compilateur de préférences avec Java et la librerie ILOCPLEX (pour plus d'info  voir la section des postes).
   tags: ["professional", "knowledge compilation","academic"]
 
-- name: Sentiment analysis in a big data environment
+- name: Analyse des sentiments dans un environnement Big Data
   logo: /images/sections/projects/spark-20-458193.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  summary: Using big data tools to build a real-time sentiment analysis system.
+  role: Développeur
+  timeline: "Dec. 2019"
+  summary: Utilisation d'outils Big Data pour créer un système d'analyse des sentiments en temps réel.
   tags: ["spark streaming","kafka","academic"]
 
-- name: Face Recognition Attendance App
+- name: Application de la reconnaissance faciale pour la gestion des absences
   logo: /images/sections/projects/opencv.png
-  role: Developer
-  timeline: "October 2019"
+  role: Développeur
+  timeline: "Oct. 2019"
   #repo: 
-  summary: Building a simple face recognition application using Python and openCV with a tkinter gui interface.
+  summary: Implémenter une application de reconnaissance faciale en utilisant Python et openCV avec une interface graphique tkinter.
   tags: ["tkinter","Python","openCV","academic"]
