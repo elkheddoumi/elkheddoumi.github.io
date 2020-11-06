@@ -13,7 +13,7 @@ languages:
   fr:
      languageName: French
      weight: 2
-googleAnalytics: 251854529
+googleAnalytics: G-YZVMRD01B2
 # Control TOC depth
 markup:
   tableOfContents:
