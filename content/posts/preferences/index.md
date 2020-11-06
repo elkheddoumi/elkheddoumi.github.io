@@ -3,7 +3,7 @@ date: 2020-09-07T10:58:08-04:00
 description: "Study how preferences can be compiled, in order to enable fast answering to queries"
 hero: "/images/BandeauANITI.jpg"
 tags: ["Java","knowledge compilation","Decision support systems"]
-title: "Preferences compilation for decision suport systems"
+title: "Preferences compilation for decision support systems"
 ---
 
 # General context
