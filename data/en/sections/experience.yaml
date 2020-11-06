@@ -11,11 +11,12 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Toulouse Institute of Computer Science Research.
-    url: "https://www.irit.fr/"
+    name:  ANITI (Artificial and Natural Intelligence Toulouse Institute) et IRIT (Institut de Recherche en Informatique de Toulouse).
+    url: "https://aniti.univ-toulouse.fr/"
     location: Toulouse
     # company overview
-    overview: IRIT, Toulouse Research Institute in Computer Science, one of the largest joint research units at national level in France, is one of the pillars of research in the Midi-Pyrenees region with 700 permanent and non-permanent members.
+    overview: "The interdisciplinary institute in artificial intelligence of Toulouse, named the Artificial and Natural Intelligence Toulouse Institute (ANITI), has been selected to be one of four institutes spearheading research on AI in France. The challenge is to make Toulouse one of the world leaders in artificial intelligence in research, education, innovation and economic development. The strategic application sectors targeted by the project are mobility and transportation, and robotics/cobotics for the industry of the future.
+     The ambition of the ANITI project is to develop a new generation of artificial intelligence called hybrid AI, combining data-driven machine learning techniques with symbolic and formal methods for expressing properties and constraints and carrying out logical reasoning. This approach will provide better guarantees in terms of reliability, robustness and the ability to explain and interpret the results of the algorithms used, while ensuring social acceptability and economic viability. Such guarantees are required by many applications targeted by the project, such as autonomous vehicles of the future. Starting operations this autumn, ANITI will bring together more than 200 researchers from universities, engineering schools, scientific and technological research organizations, and about thirty companies in the Toulouse region."
   positions:
   - designation: Final year Master internship
     start: Mar. 2020
