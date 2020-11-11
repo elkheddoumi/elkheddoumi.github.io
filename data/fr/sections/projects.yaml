@@ -21,6 +21,15 @@ buttons:
 
 # your projects
 projects:
+- name: Détection du masque.
+  logo: /images/sections/projects/opencv.png
+  role: Developer
+  timeline: "Nov. 2020"
+  repo: https://github.com/elkheddoumi10/face_mask_detection # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Application de détection de masque utilisant une approche d'apprentissage en profondeur, Keras / Tensorflow et openCV.
+  tags: ["Tensorflow", "deep learning", "keras","openCV","hobby"]
+
 - name: Credit card fraud detection
   logo: /images/sections/projects/tensorflow.png
   role: Developer
