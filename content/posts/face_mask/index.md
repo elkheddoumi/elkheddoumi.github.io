@@ -8,7 +8,7 @@ title: "Face Mask detection application using deep learning approache, Keras/Ten
 
 # General context
 
-With the crazy augmentation of COVID-19 cases, waring a face mask play a crucial role in protecting the health of individuals against this respiratory disease. But masks are not comfortable for everyone, which makes the control operation almost impossible to everyone.  
+With the crazy augmentation of COVID-19 cases, wearing a face mask play a crucial role in protecting the health of individuals against this respiratory disease. But masks are not comfortable for everyone, which makes the control operation almost impossible to everyone.  
 
 Facial recognition applications with the deep leaning models could be an efficient way to detect people who does not respect this masks protocol in public places such as Public transport, Supermarket …
 In this article I will show you how I could implement a Face mask detector, with a high accuracy deep learning model. 
