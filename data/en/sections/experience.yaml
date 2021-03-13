@@ -43,10 +43,10 @@ experiences:
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: Sep. 2020
     # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Study different preferences representation languages;
-    - Design and Implement a preferences compiler with java and ILOCPLEX librerie ;
-    - Assess the practical feasibility of the approach by setting up a test protocol on simulated data sets.
+  responsibilities:
+  - Study different preferences representation languages;
+  - Design and Implement a preferences compiler with java and ILOCPLEX librerie ;
+  - Assess the practical feasibility of the approach by setting up a test protocol on simulated data sets.
     
 
 #- company:
