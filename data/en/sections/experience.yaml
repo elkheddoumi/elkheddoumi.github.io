@@ -9,7 +9,27 @@ section:
   # hideTitle: true 
 
 # Your experiences
+
 experiences:
+- company:
+    name: WAFA GESTION
+    url: "https://www.wafagestion.com/fr"
+    location: CASABLANCA
+    overview: Wafa Gestion is the leading asset manager in Morocco for third-party clients, and an expert in designing and managing investment solutions.
+  positions:
+  - designation: Data scientist
+    start: January 2021
+    #end: May 2017
+  responsibilities:
+  - Promote independent and consistent performance measurement of all assets under management;
+  - Diagnose the competitive position of the management company in terms of performance and risk benchmarking; 
+  - Project management of reengineering projects and optimization of internal procedures;
+  - Development of mathematical models for analysis, management and forecasting;
+  - Automation and computerization of operational flows;
+  - Production of various management reports intended for 'Wafa Gestion' clients;
+  - Financial Instruments Valuation;
+  - Database management.
+
 - company:
     name:  ANITI (Artificial and Natural Intelligence Toulouse Institute) and IRIT (Institut de Recherche en Informatique de Toulouse).
     url: "https://aniti.univ-toulouse.fr/"
