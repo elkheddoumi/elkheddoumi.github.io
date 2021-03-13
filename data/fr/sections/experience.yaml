@@ -11,6 +11,29 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: WAFA GESTION
+    url: "https://www.wafagestion.com/fr"
+    location: CASABLANCA
+    # company overview
+    overview: " **Expert en solutions d'investissement et placements, Wafa Gestion est l’acteur de référence de la gestion d’actifs pour compte de tiers au Maroc."
+  positions:
+  - designation: DATA SCIENTIST  
+    start: Janvier 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    #end: Sep. 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Promouvoir une mesure de performance indépendante et homogène de l’ensemble des actifs gérés ;
+    - Assurer le diagnostic de la position concurrentielle de la société de gestion en terme de comparatif de performance et de risque ;
+    - Maîtrise d’œuvre de projets de re-engineering et d’optimisation des procédures internes ;
+    - Développement de modèles mathématiques d’analyse, de gestion et de prévisions ; 
+    - Automatisation et informatisation des flux opérationnels ;
+    - Réalisation des différents reportings de gestion destinés aux clients de Wafa Gestion ; 
+    - Participation à la mise en œuvre et au développement d’outils d’attribution de performance adaptés aux différents processus d’investissement.  
+    - Valorisation des instruments financiers;
+    - Gestion de la base de données.
+
+- company:
     name: ANITI (Artificial and Natural Intelligence Toulouse Institute) et IRIT (Institut de Recherche en Informatique de Toulouse).
     url: "https://aniti.univ-toulouse.fr/"
     location: Toulouse
