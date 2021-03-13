@@ -10,15 +10,15 @@ section:
 # your designation
 designation: Data Scientist junior
 # your company information
-#company:
- # name: Example Co.
-  #url: "https://www.example.com"
+company:
+  name: WAFA GESTION
+  url: "https://www.wafagestion.com/fr"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/cv_fr.pdf"
 
 # a summary about you
-summary: "Je suis Karim EL-KHEDDOUMI, 24 ans, Data Scientist junior. Diplômé d'un Master en intelligence artificielle de l'Institut national de statistique et d'économie appliquée. Je suis passionné par l'intelligence artificielle, la Data Science et le problem-solving. Mon histoire avec Data a commencé en 2018, depuis, j'essaie d'améliorer mes compétences pour aider la communauté."
+summary: "Je suis Karim EL-KHEDDOUMI, 24 ans, Data Scientist junior. Diplômé d'un Master en intelligence artificielle de l'Institut national de statistique et d'économie appliquée. Je suis passionné par l'intelligence artificielle, la Data Science, le problem-solving et la Finance. Mon histoire avec Data a commencé en 2018, depuis, j'essaie d'améliorer mes compétences pour aider la communauté."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
