@@ -27,7 +27,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  background: /images/site/Ai-image-deep-net-v3-690px.jpg
+  background: /images/site/2.jpg
 
   logo:
     main: /images/site/karim_logo.png
