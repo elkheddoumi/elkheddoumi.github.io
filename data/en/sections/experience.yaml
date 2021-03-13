@@ -20,33 +20,32 @@ experiences:
   - designation: Data scientist
     start: January 2021
     #end: May 2017
-  responsibilities:
-  - Promote independent and consistent performance measurement of all assets under management;
-  - Diagnose the competitive position of the management company in terms of performance and risk benchmarking; 
-  - Project management of reengineering projects and optimization of internal procedures;
-  - Development of mathematical models for analysis, management and forecasting;
-  - Automation and computerization of operational flows;
-  - Production of various management reports intended for 'Wafa Gestion' clients;
-  - Financial Instruments Valuation;
-  - Database management.
+    responsibilities:
+    - Promote independent and consistent performance measurement of all assets under management;
+    - Diagnose the competitive position of the management company in terms of performance and risk benchmarking; 
+    - Project management of reengineering projects and optimization of internal procedures;
+    - Development of mathematical models for analysis, management and forecasting;
+    - Automation and computerization of operational flows;
+    - Production of various management reports intended for 'Wafa Gestion' clients;
+    - Financial Instruments Valuation;
+    - Database management.
 
 - company:
     name:  ANITI (Artificial and Natural Intelligence Toulouse Institute) and IRIT (Institut de Recherche en Informatique de Toulouse).
     url: "https://aniti.univ-toulouse.fr/"
     location: Toulouse
     # company overview
-    overview: "The interdisciplinary institute in artificial intelligence of Toulouse, named the Artificial and Natural Intelligence Toulouse Institute (ANITI), has been selected to be one of four institutes spearheading research on AI in France. The challenge is to make Toulouse one of the world leaders in artificial intelligence in research, education, innovation and economic development. The strategic application sectors targeted by the project are mobility and transportation, and robotics/cobotics for the industry of the future.
-     The ambition of the ANITI project is to develop a new generation of artificial intelligence called hybrid AI, combining data-driven machine learning techniques with symbolic and formal methods for expressing properties and constraints and carrying out logical reasoning."
+    overview: "The interdisciplinary institute in artificial intelligence of Toulouse, named the Artificial and Natural Intelligence Toulouse Institute (ANITI), has been selected to be one of four institutes spearheading research on AI in France."
   positions:
   - designation: Final year Master internship
     start: Mar. 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: Sep. 2020
     # give some points about what was your responsibilities at the company.
-  responsibilities:
-  - Study different preferences representation languages;
-  - Design and Implement a preferences compiler with java and ILOCPLEX librerie ;
-  - Assess the practical feasibility of the approach by setting up a test protocol on simulated data sets.
+    responsibilities:
+    - Study different preferences representation languages;
+    - Design and Implement a preferences compiler with java and ILOCPLEX librerie ;
+    - Assess the practical feasibility of the approach by setting up a test protocol on simulated data sets.
     
 
 #- company:
