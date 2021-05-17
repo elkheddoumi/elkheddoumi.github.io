@@ -2,7 +2,7 @@ name: "Karim EL-KHEDDOUMI"
 nickname: "Karim"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Salut, je suis"
-image: "images/author/karimavatar.jpg"
+image: "images/author/class.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "karimelkheddoumi@outlook.de"
